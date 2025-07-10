@@ -1,21 +1,11 @@
-<svg width="100" height="150" viewBox="0 0 600 200" xmlns="http://www.w3.org/2000/svg" fill="none">
-  <!-- Texto MENTOR centralizado -->
-  <text x="50%" y="80" font-size="48" font-family="Arial, sans-serif" fill="white" text-anchor="middle" font-weight="bold">
-    MENTOR
-  </text>
-
-  <!-- Chapeuzinho de formatura -->
-  <g transform="translate(140,120) scale(1.2)">
-    <path d="M20 0L0 10L20 20L40 10L20 0Z" fill="#5B49FF"/>
-    <path d="M20 20V28" stroke="#5B49FF" stroke-width="2"/>
-    <circle cx="20" cy="30" r="2" fill="#5B49FF"/>
-  </g>
-
-  <!-- Texto Milionário alinhado à direita do chapéu -->
-  <text x="180" y="140" font-size="28" font-family="Arial, sans-serif" fill="white">
-    Milionário
-  </text>
-
-  <!-- Background opcional (removível) -->
-  <rect width="100%" height="100%" fill="black"/>
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500" xmlns:bx="https://boxy-svg.com">
+  <defs>
+    <bx:export>
+      <bx:file format="svg" href="#object-0" path="Sem título.svg"/>
+    </bx:export>
+  </defs>
+  <text style="fill: rgb(223, 224, 235); font-family: &quot;Arial&quot;, sans-serif; font-size: 48px; font-weight: 700; text-transform: capitalize; white-space: pre;" x="160.084" y="41.669">MENTOR</text>
+  <path style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" transform="matrix(0.749457, 0, 0, 0.710012, -53.960876, -76.282936)" d="M 341.424 175.1 L 345.376 175.1 L 346.21 181.136 A 10.497 10.497 0 1 0 348.565 182.111 L 353.423 178.433 L 356.217 181.227 L 352.539 186.085 A 10.497 10.497 0 1 0 353.514 188.44 L 359.55 189.274 L 359.55 193.226 L 353.514 194.06 A 10.497 10.497 0 1 0 352.539 196.415 L 356.217 201.273 L 353.423 204.067 L 348.565 200.389 A 10.497 10.497 0 1 0 346.21 201.364 L 345.376 207.4 L 341.424 207.4 L 340.59 201.364 A 10.497 10.497 0 1 0 338.235 200.389 L 333.377 204.067 L 330.583 201.273 L 334.261 196.415 A 10.497 10.497 0 1 0 333.286 194.06 L 327.25 193.226 L 327.25 189.274 L 333.286 188.44 A 10.497 10.497 0 1 0 334.261 186.085 L 330.583 181.227 L 333.377 178.433 L 338.235 182.111 A 10.497 10.497 0 1 0 340.59 181.136 Z M 343.4 186.405 A 4.845 4.845 0 0 0 343.4 196.095 A 4.845 4.845 0 0 0 343.4 186.405" bx:shape="cog 343.4 191.25 4.845 10.497 16.15 0.38 8 1@d9d1c3f0"/>
+  <text style="fill: rgb(42, 160, 221); font-family: &quot;Arial&quot;, sans-serif; font-size: 25px; white-space: pre; transform-origin: 278.617px 56.641px 0px;" x="220.603" y="68.426" id="object-0">Milionário</text>
 </svg>
